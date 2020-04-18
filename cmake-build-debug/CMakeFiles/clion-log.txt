@@ -1,0 +1,6 @@
+/home/ilya/JetBrainsTools/apps/CLion/ch-0/193.6911.21/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/ilya/CLionProjects/sumOfNumberSeries
+-- Found MPI_C: /usr/lib/x86_64-linux-gnu/libmpich.so (found version "3.1") 
+-- Found MPI: TRUE (found version "3.1")  
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/ilya/CLionProjects/sumOfNumberSeries/cmake-build-debug

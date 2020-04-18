@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,-Bsymbolic-functions CMakeFiles/sumOfNumberSeries.dir/main.c.o  -o sumOfNumberSeries /usr/lib/x86_64-linux-gnu/libmpich.so 
